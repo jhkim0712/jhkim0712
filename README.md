@@ -23,4 +23,5 @@
   <img src="https://img.shields.io/badge/C-283593?style=flat-square&logo=C&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%2B%2B-39588B?style=flat-square&logo=C%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=C%23&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-4A6A96?style=flat-square&logo=Python&logoColor=white"/>
 </p>
