@@ -3,7 +3,7 @@
   <!-- <a href="https://lunikism.com" target="_blank"><img src="https://img.shields.io/badge/Blog-EE9626?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a> -->
   <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/JaehyeongKim-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
   <a href="https://github.com/jhkim0712" target="_blank"><img src="https://img.shields.io/badge/JaehyeongKim-24292e?style=flat-square&logo=Github&logoColor=white"/></a>
-  <a href="mailto:mylunik@gmail.com" target="_blank"><img src="https://img.shields.io/badge/mylunik@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="mailto:mylunik(_at_)gmail.com" target="_blank"><img src="https://img.shields.io/badge/mylunik@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 
   😎 대한민국 수도권 어느 지역에서, 커피를 마시면서 코드를 작성하고 있습니다. <br />
