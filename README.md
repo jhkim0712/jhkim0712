@@ -6,9 +6,10 @@
   <a href="mailto:mylunik(_at_)gmail.com" target="_blank"><img src="https://img.shields.io/badge/mylunik@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 
-  😎 대한민국 수도권 어느 지역에서, ☕커피를 마시면서 코드를 작성하고 있습니다.
-  약 7년간, 공장자동화(FA) SW 개발자로 일하다가, 최근에는 임베디드 FW와 UI SW 개발을 하고 있습니다.  
-  
+
+  내일 지구가 멸망하더라도 나는 한 줄의 코드 커밋을 하겠다.
+
+  C/C++, Python, freeRTOS, Embeded ...
   
 
 
