@@ -9,7 +9,7 @@
 
   내일 지구가 멸망하더라도 나는 한 줄의 코드 커밋을 하겠다.
 
-  C/C++, Python, freeRTOS, Embeded ...
+  
   
 
 
