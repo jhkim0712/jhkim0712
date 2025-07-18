@@ -1,5 +1,7 @@
 ## ✨ Empowering Hardware with Intelligent Software ✨
 
+### " Code that Inspires "
+
 ### 🚀 What I Do
 - Embedded Software (Firmware) Development:
     - MCU:  STM32 (various series like STM32F4, STM32H7), ARM Cortex-M based MCU architecture, and peripheral control (GPIO, ADC, DAC, SPI, I2C, UART, CAN, Timer, etc.).
