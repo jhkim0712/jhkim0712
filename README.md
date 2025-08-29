@@ -1,27 +1,24 @@
+
 ## ✨ Empowering Hardware with Intelligent Software ✨
 
-### " Code that Inspires "
+### "Code that Inspires"
 
 ### 🚀 What I Do
-- Embedded Software (Firmware) Development:
-    - MCU:  STM32 (various series like STM32F4, STM32H7), ARM Cortex-M based MCU architecture, and peripheral control (GPIO, ADC, DAC, SPI, I2C, UART, CAN, Timer, etc.).
-    - Development Environments: STM32CubeIDE, VS Code
-    - Debugging: JTAG/SWD-based debugging, Logic Analyzer, Oscilloscope utilization.
-    - RTOS: Experience with RTOS-based development (e.g., FreeRTOS, RT-Thread) including task management, synchronization, and communication.
-    - Firmware Updates: Experience implementing OTA (Over-the-Air) firmware updates.
 
-- Radar Sensor Development:
-   - Radar IC: Experience utilizing Infineon Xensiv Radar (e.g., BGT24LTR24) product lines.
-   - Radar Signal Processing: Fundamental understanding of FMCW radar signal processing.
-   - Algorithm Development:
-        - Implementation of target detection and tracking algorithms.
-        - Development of algorithms for distance, velocity, and angle measurement.
-        - Application of clutter rejection and noise filtering techniques.
-        - Development of application-specific algorithms such as gesture recognition and occupancy sensing.
-    - Data Analysis: Radar data analysis and visualization using C# and Python (NumPy, SciPy, Matplotlib).
+- **Embedded Software (Firmware) Development**
+    - MCU: STM32 (STM32F4, STM32H7 등), ARM Cortex-M 기반 MCU, 다양한 주변장치 제어 (GPIO, ADC, DAC, SPI, I2C, UART, CAN, Timer 등)
+    - 개발 환경: STM32CubeIDE, VS Code
+    - 디버깅: JTAG/SWD, Logic Analyzer, Oscilloscope 활용
+    - RTOS: FreeRTOS, RT-Thread 등 RTOS 기반 개발 경험 (태스크 관리, 동기화, 통신)
+    - 펌웨어 업데이트: OTA(Over-the-Air) 펌웨어 업데이트 구현 경험
 
-- Programming Languages & Tools:
-    - Primary Languages: C, C++, C#
-    - Scripting Languages: Python (for automation scripts, data analysis).
-    - Version Control: Git (GitHub, GitLab).
-    - Documentation: Doxygen, Notion.
+- **Radar Sensor Development**
+    - Radar IC: Infineon Xensiv Radar (BGT24LTR24 등) 활용 경험
+    - 신호처리: FMCW 레이더 신호처리 기본 이해
+    - 데이터 분석: C#, Python(NumPy, SciPy, Matplotlib) 기반 레이더 데이터 분석 및 시각화
+
+- **Programming Languages & Tools**
+    - 주요 언어: C, C++, C#
+    - 스크립트: Python (자동화, 데이터 분석)
+    - 버전 관리: Git (GitHub, GitLab)
+    - 문서화: Doxygen, Notion
