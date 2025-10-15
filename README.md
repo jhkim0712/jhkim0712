@@ -7,7 +7,7 @@
 
 - **Embedded Software (Firmware) Development**
     - MCU: STM32 (STM32F4, STM32H7 등) ARM Cortex-M 기반 MCU, Infineon PSoC6
-    - SoC: ESP32
+    - SoC: ESP32 (for IoT)
     - 개발 환경: STM32CubeIDE, vsCode
     - 디버깅: JTAG/SWD, Logic Analyzer, Oscilloscope 활용
     - RTOS: FreeRTOS, Mbed 등 RTOS 기반 개발 경험 (태스크 관리, 동기화, 통신)
